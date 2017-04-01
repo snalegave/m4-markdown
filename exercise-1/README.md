@@ -6,7 +6,7 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
-'''
-Laugh and the world laughs with you, weep and you weep alone
-'''
-(https://www.poetryfoundation.org/poems-and-poets/poems/detail/45937"Poem by Ella Wheeler Wilcox")
+
+>Laugh and the world laughs with you, weep and you weep alone
+
+[poem by Ella Wheeler Wilcox](https://www.poetryfoundation.org/poems-and-poets/poems/detail/45937"Poem by Ella Wheeler Wilcox")
